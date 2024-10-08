@@ -1,7 +1,7 @@
-<center>
+<p align="center">
  <img alt="Static Badge" src="https://img.shields.io/badge/CPIFP-Alan%20Turing-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Git%20Jvr-purple">
 
-</center>
+</p>
 
 ## Introduction
 
