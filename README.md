@@ -27,3 +27,11 @@ Aquí podras echar un vistazo del contenido de este repositorio. ;)
 - **Ejercicio 5**
 
 > Practicaremos las etiquetas de quotation a la vez que le damos un poco de estilo.
+
+- **Ejercicio 6**
+
+> Crearemos una página web con los ficheros “queen.html” y “estilos.css”, teniendo en cuenta las indicaciones dadas.
+
+- **Ejercicio 7**
+
+> Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen.
