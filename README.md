@@ -35,3 +35,11 @@ Aquí podras echar un vistazo del contenido de este repositorio. ;)
 - **Ejercicio 7**
 
 > Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen.
+
+- **Ejercicio 8**
+
+> Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen, distintas al ejercicio 7.
+
+- **Ejercicio 9**
+
+> Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen, distintas al ejercicio 7 y 8.
