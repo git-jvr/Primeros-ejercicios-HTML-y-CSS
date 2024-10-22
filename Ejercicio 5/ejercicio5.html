@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="ej5-jvr" content="width=Ejercicio 5 - Jvr, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ejercicio 5</title>
     <style type="text/css">
         body {
@@ -25,46 +25,60 @@
             font-size: 18px;
             color: #444;
             background-color: #e0f7fa;
+            padding: 10px;
+            
         }
         abbr {
-            color: #d32f2f
+            color: #d32f2f;
         }
         cite {
             font-style: italic;
-            color: #d32f2f
+            color: #d32f2f;
         }
         q {
-            color: #3d7b74
+            color: #3d7b74;
         }
         address {
             font-size: 16px;
             background-color: #e0f7fa;
+            padding: 10px;
+            margin: 10px 0;
         }
         a {
             color: #00796b;
+            text-decoration: none;
         }
-        .izq-der {
+        a:hover {
+            text-decoration: underline;
+        }
+        bdo.izq-der {
             color: #00796b;
         }
-        .der-izq {
+        bdo.der-izq {
             color: #d32f2f;
         }
     </style>
 </head>
 <body>
     <h1>Ejemplos de uso de etiquetas de HTML</h1>
-        <h2>Blockquote y Q</h2>
-            <p>"La imaginación es más importante que el conocimiento.</p>
-            <p>Esta es una famosa cita de Albert Einstein, mencionada en Wikiquote:</p>
-            <p>Como dijo él: "La imaginación es más importante que el conocimiento.</p>
-        <h2>Abbr</h2>
-            <p>Las siglas de HTML significan Lenguaje de Marcado de Hipertexto.</p>
-        <h2>Address</h2>
-            <p>Puedes contactarnos en:</p>
-            <p>info@ejemplo.com</p>
-            <p>Calle Falsa 123, Ciudad, País</p>
-        <h2>Bdo</h2>
-            <p>Este texto se mostrará en orden normal: derecha a izquierda</p>
-            <p>Este texto se mostrará en orden invertido: izquierda a derecha</p>
+
+    <h2>Blockquote y Q</h2>
+    <blockquote>"La imaginación es más importante que el conocimiento."</blockquote>
+    <p>Esta es una famosa cita de Albert Einstein, mencionada en <cite>Wikiquote</cite>:</p>
+    <p>Como dijo él: <q>La imaginación es más importante que el conocimiento.</q></p>
+
+    <h2>Abbr</h2>
+    <p>Las siglas de <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> significan Lenguaje de Marcado de Hipertexto.</p>
+
+    <h2>Address</h2>
+    <address>
+        <p>Puedes contactarnos en:</p>
+        <a href="mailto:info@ejemplo.com">info@ejemplo.com</a><br>
+        Calle Falsa 123, Ciudad, País
+    </address>
+
+    <h2>Bdo</h2>
+    <p>Este texto se mostrará en orden normal: <bdo dir="ltr" class="izq-der">derecha a izquierda</bdo></p>
+    <p>Este texto se mostrará en orden invertido: <bdo dir="rtl" class="der-izq">derecha a izquierda</bdo></p>
 </body>
 </html>
