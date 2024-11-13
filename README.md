@@ -3,9 +3,9 @@
 
 </p>
 
-## Introduction
+## Introducción
 
-Aquí podras echar un vistazo del contenido de este repositorio. ;)
+Aquí podras echar un vistazo del contenido de este repositorio. 
 
 
 - **Ejercicio 1**
@@ -43,3 +43,11 @@ Aquí podras echar un vistazo del contenido de este repositorio. ;)
 - **Ejercicio 9**
 
 > Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen, distintas al ejercicio 7 y 8.
+
+- **Ejercicio 10**
+
+> Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen, distintas al ejercicio 7, 8 y 9.
+
+- **Ejercicio 11**
+
+> Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen, distintas al ejercicio 7, 8, 9 y 10.
