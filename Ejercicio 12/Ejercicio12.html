@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 12 - git-jvr</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <main>
+        <form>
+            <fieldset>
+                <legend>Datos personales</legend>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" placeholder="Su nombre" required>
+                <br><br>
+                <label for="correo">Correo electrónico:</label>
+                <input type="email" id="correo" placeholder="nombre@servidor.com" required>
+            </fieldset>
+            <fieldset>
+                <legend>Datos del proyecto</legend>
+                <label for="descripcion">Breve descripción del proyecto:</label>
+                <textarea id="descripcion" placeholder="" required></textarea>
+                <br><br>
+                <p>Estado actual del proyecto:</p>
+                <label><input type="radio" name="estado" value="planteamiento" required> En planteamiento</label>
+                <label><input type="radio" name="estado" value="planificacion"> En planificación</label>
+                <label><input type="radio" name="estado" value="ejecucion"> En ejecución</label>
+                <label><input type="radio" name="estado" value="finalizado"> Ya finalizado</label>
+                <br><br>
+                <label for="presupuesto">Presupuesto aproximado (en €):</label>
+                <input type="number" id="presupuesto" value="1000" required>
+            </fieldset>
+            <button type="submit">Enviar</button>
+        </form>
+    </main>
+</body>
+</html>
