@@ -18,7 +18,7 @@ header .logo {
 }
 
 header .logo img {
-    width: 50px;
+    width: 80px;
 }
 
 header h1 {
@@ -28,7 +28,7 @@ header h1 {
 
 nav ul {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -66,7 +66,7 @@ main {
 }
 
 .card img {
-    width: 80px;
+    width: 140px;
     margin-bottom: 1rem;
 }
 
@@ -92,9 +92,17 @@ footer {
 
 footer .info p {
     margin: 0.3rem 0;
+    text-align: left;
 }
 
 footer .social-icons img {
     width: 30px;
     margin: 0 0.5rem;
+    text-align: center;
+}
+
+footer .info2 p {
+
+    margin: 0.3rem 0;
+    text-align: left;
 }
