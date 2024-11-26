@@ -51,3 +51,15 @@ Aquí podras echar un vistazo del contenido de este repositorio.
 - **Ejercicio 11**
 
 > Realizaremos una web como la de la imagen que se nos muestra, teniendo en cuenta las restricciones de css que se nos imponen, distintas al ejercicio 7, 8, 9 y 10.
+
+- **Ejercicio 12**
+
+> Realizaremos una web como la de la imagen que se nos muestra, esta vez estilo formulario.
+
+- **Ejercicio 13**
+
+> De forma completamente autónoma trataremos de reproducir con la mayor exactitud posible la estructura solicitada de una página web.
+
+- **Ejercicio 14**
+
+> De forma completamente autónoma trataremos de reproducir con la mayor exactitud posible la estructura solicitada de una página web, distinta al del ejercicio 13.
